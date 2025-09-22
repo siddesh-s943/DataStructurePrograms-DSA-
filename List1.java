@@ -1,5 +1,5 @@
 package SingleLinkedList;
-
+// Node
 public class List1 {
 	static class Node {
 		int data;
